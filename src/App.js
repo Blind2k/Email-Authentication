@@ -11,9 +11,6 @@ import LoadingSpinner from "./components/UI/LoadingSpinner";
 import AuthContext from "./store/Auth-context";
 import { Redirect } from "react-router-dom";
 
-// LAZY
-const NoPageFound = React.lazy(() => import("./pages/NoPageFound"));
-
 function App() {
   const authCtx = useContext(AuthContext);
   return (
