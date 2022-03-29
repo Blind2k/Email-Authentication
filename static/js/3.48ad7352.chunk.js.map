@@ -1,1 +1,0 @@
-{"version":3,"sources":["pages/NoPageFound.js"],"names":["NoPageFound"],"mappings":"qJAIeA,UAJK,WAClB,OAAO","file":"static/js/3.48ad7352.chunk.js","sourcesContent":["const NoPageFound = () => {\n  return <p>How did you got here?. No page found</p>;\n};\n\nexport default NoPageFound;\n"],"sourceRoot":""}

@@ -1,23 +1,21 @@
 {
   "files": {
     "main.css": "/emailauthentication/static/css/main.37cda4ff.chunk.css",
-    "main.js": "/emailauthentication/static/js/main.d87d75d4.chunk.js",
-    "main.js.map": "/emailauthentication/static/js/main.d87d75d4.chunk.js.map",
-    "runtime-main.js": "/emailauthentication/static/js/runtime-main.30d579b7.js",
-    "runtime-main.js.map": "/emailauthentication/static/js/runtime-main.30d579b7.js.map",
+    "main.js": "/emailauthentication/static/js/main.de2900b3.chunk.js",
+    "main.js.map": "/emailauthentication/static/js/main.de2900b3.chunk.js.map",
+    "runtime-main.js": "/emailauthentication/static/js/runtime-main.ead462a2.js",
+    "runtime-main.js.map": "/emailauthentication/static/js/runtime-main.ead462a2.js.map",
     "static/js/2.46685567.chunk.js": "/emailauthentication/static/js/2.46685567.chunk.js",
     "static/js/2.46685567.chunk.js.map": "/emailauthentication/static/js/2.46685567.chunk.js.map",
-    "static/js/3.48ad7352.chunk.js": "/emailauthentication/static/js/3.48ad7352.chunk.js",
-    "static/js/3.48ad7352.chunk.js.map": "/emailauthentication/static/js/3.48ad7352.chunk.js.map",
     "index.html": "/emailauthentication/index.html",
     "static/css/main.37cda4ff.chunk.css.map": "/emailauthentication/static/css/main.37cda4ff.chunk.css.map",
     "static/js/2.46685567.chunk.js.LICENSE.txt": "/emailauthentication/static/js/2.46685567.chunk.js.LICENSE.txt",
     "static/media/logo.5bf39f11.png": "/emailauthentication/static/media/logo.5bf39f11.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.30d579b7.js",
+    "static/js/runtime-main.ead462a2.js",
     "static/js/2.46685567.chunk.js",
     "static/css/main.37cda4ff.chunk.css",
-    "static/js/main.d87d75d4.chunk.js"
+    "static/js/main.de2900b3.chunk.js"
   ]
 }
