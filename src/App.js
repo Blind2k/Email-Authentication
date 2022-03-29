@@ -32,7 +32,7 @@ function App() {
           </Route>
           {/* LOST URL ROUTE */}
           <Route path="*">
-            <NoPageFound />
+            <Redirect to="/" />
           </Route>
         </Switch>
       </Suspense>
