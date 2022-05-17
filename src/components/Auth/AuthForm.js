@@ -52,10 +52,10 @@ const AuthForm = () => {
       let urlEnd;
       if (isLogin) {
          urlEnd =
-            "https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=AIzaSyC6dGNwU02TWzTJrXdA14s88P5FqjPH45g";
+            "https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=:)";
       } else {
          urlEnd =
-            "https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=AIzaSyC6dGNwU02TWzTJrXdA14s88P5FqjPH45g";
+            "https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=:)";
       }
       fetch(urlEnd, {
          method: "POST",
