@@ -1,5 +1,5 @@
 import ReactDOM from 'react-dom';
-import { BrowserRouter } from 'react-router-dom';
+import { BrowserRouter, HashRouter } from 'react-router-dom';
 
 import './index.css';
 import App from './App';
@@ -7,9 +7,9 @@ import { AuthContextProvider } from "./store/Auth-context"
 
 ReactDOM.render(
   <AuthContextProvider>
-    <BrowserRouter>
+    <HashRouter>
       <App />
-    </BrowserRouter>,
+    </HashRouter>,
   </AuthContextProvider>,
   document.getElementById('root')
 );
